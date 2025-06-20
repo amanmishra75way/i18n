@@ -8,6 +8,7 @@ i18next
   .init({
     debug: true,
     lng: "hi",
+    fallbackLng: "en",
     resources: {
       en: {
         translation: {
